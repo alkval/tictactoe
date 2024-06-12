@@ -31,7 +31,7 @@ while (winner == 0)
     {
         Console.WriteLine("\nPlayer2's turn: O\n");
     }
-    
+    //TODO : Make the WriteLines it into a function to make the code cleaner and more readable
     Console.WriteLine($" {(options[0] == 1 ? markerx + " |": options[0] == 2 ? markero +" |": options[0] == 0 ? markerb +" |" : "")} {(options[1] == 1 ? markerx + " |": options[1] == 2 ? markero +" |": options[1] == 0 ? markerb +" |" : "")} {(options[2] == 1 ? markerx : options[2] == 2 ? markero : options[2] == 0 ? markerb : "")}"); 
     Console.WriteLine($"-{(option == 0 ? marker : "-")}-|-{(option == 1 ? marker : "-")}-|-{(option == 2 ? marker : "-")}-");
     Console.WriteLine($" {(options[3] == 1 ? markerx + " |": options[3] == 2 ? markero +" |": options[3] == 0 ? markerb +" |" : "")} {(options[4] == 1 ? markerx + " |": options[4] == 2 ? markero +" |": options[4] == 0 ? markerb +" |" : "")} {(options[5] == 1 ? markerx : options[5] == 2 ? markero : options[5] == 0 ? markerb : "")}"); 
