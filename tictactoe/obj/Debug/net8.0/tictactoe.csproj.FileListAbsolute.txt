@@ -12,3 +12,4 @@ C:\Users\alexa\Documents\uis\tictactoe\tictactoe\obj\Debug\net8.0\refint\tictact
 C:\Users\alexa\Documents\uis\tictactoe\tictactoe\obj\Debug\net8.0\tictactoe.pdb
 C:\Users\alexa\Documents\uis\tictactoe\tictactoe\obj\Debug\net8.0\tictactoe.genruntimeconfig.cache
 C:\Users\alexa\Documents\uis\tictactoe\tictactoe\obj\Debug\net8.0\ref\tictactoe.dll
+C:\Users\alexa\Documents\uis\tictactoe\tictactoe\obj\Debug\net8.0\tictactoe.sourcelink.json
